@@ -1,7 +1,7 @@
 {
   "Id": "1497522",
   "IdGerrit": "225583",
-  "Files": "neutron/db/db_base_plugin_v2.py,neutron/tests/unit/db/test_db_base_plugin_v2.py",
+  "Files": "neutron/db/db_base_plugin_v2.py",
   "CommitParent": "f4ff2a041b17d9621d80cc613dc4b2afe1697b03",
   "CommitPrevious": "",
   "Responsible": "Undecided",

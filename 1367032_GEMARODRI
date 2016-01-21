@@ -1,7 +1,7 @@
 {
   "Id": "1367032",
   "IdGerrit": "119953",
-  "Files": "neutron/plugins/vmware/dbexts/db.py,neutron/plugins/vmware/plugins/base.py,neutron/tests/unit/vmware/extensions/test_providernet.py",
+  "Files": "neutron/plugins/vmware/dbexts/db.py,neutron/plugins/vmware/plugins/base.py",
   "CommitParent": "8cd633ad19722c5e215c66e426282108826c9a6b",
   "CommitPrevious": "",
   "Responsible": "Undecided",

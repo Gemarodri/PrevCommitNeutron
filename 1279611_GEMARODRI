@@ -1,7 +1,7 @@
 {
   "Id": "1279611",
   "IdGerrit": "72888",
-  "Files": "neutron/agent/metadata/agent.py,neutron/agent/metadata/namespace_proxy.py,neutron/api/v2/router.py,neutron/plugins/nicira/api_client/request.py,neutron/tests/unit/nicira/fake_nvpapiclient.py,neutron/tests/unit/test_api_v2.py",
+  "Files": "neutron/agent/metadata/agent.py,neutron/agent/metadata/namespace_proxy.py,neutron/api/v2/router.py,neutron/plugins/nicira/api_client/request.py",
   "CommitParent": "4d63a13681b53c4436bbe9ec40c38cea36ea50a0",
   "CommitPrevious": "0c3dd5af\ne791e9e3\n76b87226",
   "Responsible": "Neither",
